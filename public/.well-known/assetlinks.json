@@ -1,0 +1,5 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target" : { "namespace": "android_app", "package_name": "com.hapinnov.app.twa",
+                   "sha256_cert_fingerprints": ["68:C8:14:35:10:A2:31:92:DC:B2:92:8E:6E:96:77:A4:3E:25:25:EF:C8:D8:B7:77:1E:84:55:F4:05:97:09:BC"] }
+    }]
